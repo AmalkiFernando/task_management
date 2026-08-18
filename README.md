@@ -14,6 +14,20 @@ Before running the project, make sure you have the following installed:
 - Git
 
 ---
+## Features
+
+- JWT-based authentication
+- Role-Based Access Control (RBAC)
+- Admin, Project Manager, and Team Member roles
+- Project management
+- Task creation and assignment
+- Task status tracking
+- Secure RESTful APIs
+- MySQL database integration
+- Next.js frontend
+- Express.js backend
+- GitHub Actions CI
+---
 
 # Setup Instructions
 
@@ -101,4 +115,4 @@ task_management/
 **Amalki Fernando**
 
 BSc (Hons) in Information Technology (Artificial Intelligence)  
-Sri Lanka Institute of Information Technology (SLIIT)
+Sri Lanka Institute of Information Technology
